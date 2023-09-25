@@ -1,0 +1,86 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>new website</title>
+
+    <!-- style css -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+
+    <!-- google fonts -->
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+       <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap" rel="stylesheet">
+
+
+
+       <!-- font awesomw icons -->
+
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <header>
+
+        <h1>arpit panchal</h1>                             <!--  h1 text -->
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#about">About</a></li>
+          </ul>
+    </header>
+</head>
+<body>
+                            <!-- home part 1 -->
+    <div class="home">
+      
+        <h1>A minimal clean</h1>
+        <p>layout for web design</p>
+        <a href="get.html" target="_blank">Get started</a>
+    </div>
+
+
+
+    <!-- 3 containt -->
+
+    <div class="home2">
+
+         <div class="con1">
+            <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+            <p>Lorem ipsum dolor sit Lorem ipsum dolor sit  adipisicing elit.sit amet  Necessitatibus animi quibusdam qui excepturi accusamus molestiae iure. Quis accusamus voluptatem ipsa.</p>
+    </div>
+
+    
+
+        <div class="con2">
+            <i class="fa fa-map-o" aria-hidden="true"></i>
+           <p>Lorem ipsum dolor sit Lorem ipsum dolor sit  adipisicing elit.sit amet  Necessitatibus animi quibusdam qui excepturi accusamus molestiae iure. Quis accusamus voluptatem ipsa.</p>
+
+</div>
+
+<div class="con3">
+    <i class="fa fa-rocket" aria-hidden="true"></i>
+    <p>Lorem ipsum dolor sit Lorem ipsum dolor sit  adipisicing elit.sit amet  Necessitatibus animi quibusdam qui excepturi accusamus molestiae iure. Quis accusamus voluptatem ipsa.</p>
+
+</div>
+</div>
+
+                             <!-- home 3 -->
+             <div class="main">
+                    <h3> featured content</h3>
+                   
+                    <p>Lorem ipsum Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, fugiat officia ea facilis iure labore. dolor sit, amet consectetur adipisicing elit. Deleniti, sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, blanditiis.
+
+                    </p>
+                    <video src="videos/video.mp4.mp4" height="200px" width="200px" controls >
+
+                    </video>
+             </div> 
+
+</body>
+      
+</html>
